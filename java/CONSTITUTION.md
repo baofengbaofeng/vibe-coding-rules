@@ -1,4 +1,4 @@
-# 项目宪法 (Constitution)
+# CONSTITUTION.md
 
 本宪法定义项目开发的核心原则、质量门禁和治理规则，是AI Coding和开发团队在本仓库开发的最高行为准则。
 
