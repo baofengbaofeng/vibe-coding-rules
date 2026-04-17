@@ -28,7 +28,7 @@ AGENTS.md > CONSTITUTION.md > rules/*.md规范 > 通用开发惯例
 
 ```
 vibe-coding-rules/
-├── java/                    # Java技术栈规范
+├── java/                   # Java技术栈规范
 │   ├── AGENTS.md           # Java开发最高准则
 │   ├── CONSTITUTION.md     # Java项目宪法
 │   ├── CLAUDE.md           # Claude配置文件
@@ -44,20 +44,20 @@ vibe-coding-rules/
 │       ├── code-tests-check/
 │       └── code-performance/
 ├── python/                 # Python技术栈规范
-│   ├── AGENTS.md          # Python开发最高准则
-│   ├── CONSTITUTION.md    # Python项目宪法
-│   ├── CLAUDE.md          # Claude配置文件
-│   └── rules/             # 细分规范
+│   ├── AGENTS.md           # Python开发最高准则
+│   ├── CONSTITUTION.md     # Python项目宪法
+│   ├── CLAUDE.md           # Claude配置文件
+│   └── rules/              # 细分规范
 │       ├── 后端编码规范.md
 │       ├── 前端编码规范.md
 │       ├── 代码安全规范.md
 │       ├── 代码性能规范.md
 │       ├── 单元测试规范.md
 │       └── 代码提交规范.md
-├── rust/                  # Rust技术栈规范
-│   └── CLAUDE.md         # Claude配置文件
-├── LICENSE               # 开源许可证
-└── README.md            # 项目说明文档
+├── rust/                   # Rust技术栈规范
+│   └── CLAUDE.md           # Claude配置文件
+├── LICENSE                 # 开源许可证
+└── README.md               # 项目说明文档
 ```
 
 ## 🚀 技术栈支持
