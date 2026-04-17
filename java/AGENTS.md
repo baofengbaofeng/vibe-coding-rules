@@ -139,7 +139,7 @@ mvn validate
 
 ### 数据与中间件
 - SQL统一写在MyBatis XML中，禁止注解SQL；禁止无where条件的全表更新/删除、无排序的分页查询
-- Redis Key必须加`afs:`业务前缀并设置过期时间，分布式锁必须用Redisson实现
+- Redis Key必须加`applicationName:`业务前缀并设置过期时间，分布式锁必须用Redisson实现
 - MQ消费必须做幂等处理，文件操作必须走项目统一封装，禁止直接调用底层SDK
 
 ### 接口与测试
